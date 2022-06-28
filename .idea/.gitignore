@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../CSV-JSON\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Learning\netology_homework\Java_core\taskMaven\CSV-JSON\.idea/dataSources/
+/dataSources.local.xml
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
+# Editor-based HTTP Client requests
+/httpRequests/
